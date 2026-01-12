@@ -7,6 +7,8 @@ In this project:
 - Y(Dependent Variable) represents the salary
 
 ### Linear Regression Model
+![RegressionModel](https://github.com/njerimuriithi/Salary-Prediction/blob/10e708ca26b772408234bb2e68eaae9c1e5f53a6/Regression%20Model.png)
+
   The linear regression Formula is:
   
       > Y = b₀ + b₁x
@@ -22,20 +24,21 @@ In this project:
 
 
 ## Model Summary
- #### R2 = 0.96
+![Summurary Output](https://github.com/njerimuriithi/Salary-Prediction/blob/10e708ca26b772408234bb2e68eaae9c1e5f53a6/Summary%20Output.png)
+ #### 1.  R Square(R2) = 0.96
 Indicates that 96% of the variation in salary is explained by years of experience, showing a strong model fit.
 
-#### Slope(8731.9)
+#### 2. Slope(8731.9)
  On average the salary increases by approximately 8732 for each additional year of experience
  
-#### Intercept(28,860)
+#### 3. Intercept(28,860)
 The predicted salary for an employee with 0 yrs of experience
 
-#### Significance F (p-value ≈ 1.23 × 10⁻²⁵)
+#### 4. Significance F (p-value ≈ 1.23 × 10⁻²⁵)
 
 The extremely small p-value leads to rejection of the null hypothesis(no relationship between years of Experience and Salary), confirming a statistically significant relationship between years of experience and salary
 
-#### Standard Error
+#### 5. Standard Error
 Measures the average deviation of observed salaries from the regression line, indicating prediction accuracy.
 
 ## Conclusion
