@@ -43,8 +43,6 @@ Measures the average deviation of observed salaries from the regression line, in
 
 ## Conclusion
 The results confirm that years of experience is a strong and statistically significant predictor of salary.
-This project highlights how Excel can be effectively used for regression analysis and salary prediction.
-
 
 
 
